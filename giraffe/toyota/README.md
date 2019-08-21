@@ -12,6 +12,11 @@ This Giraffe is meant to relocate the Panda into the headliner area next to the 
 
 <img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/Toyota%20Giraffe%20Wiring%200101.jpg?raw=true">
 
+Bill of Materials
+====
+
+
+
 The switches for reference
 ====
 
