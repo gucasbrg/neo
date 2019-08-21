@@ -9,7 +9,7 @@ This Giraffe is meant to relocate the Panda into the headliner area next to the 
 
 0101 Custom Giraffe wiring diagram
 ====
-<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/Toyota%20Giraffe%20Wiring%200101.jpg?raw=true">
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/Toyota%20Giraffe%20Wiring%200101.jpg">
 
 Bill of Materials
 ====
@@ -17,9 +17,16 @@ Bill of Materials
 
 Reference photos
 ====
-
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20loom.jpeg">
 
 The switches for reference
 ====
 <img src="https://github.com/commaai/neo/blob/master/giraffe/toyota/toyota_giraffe_switch_flowchart.png">
 
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/OBD%20connector.jpeg">
+
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20install1.jpeg">
+
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20install2.jpeg">
+
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20install3.jpeg">
