@@ -27,6 +27,7 @@ Reference photos
 
 <img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20install3.jpeg">
 
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Installed.jpeg">
 
 The switches for reference
 ====
