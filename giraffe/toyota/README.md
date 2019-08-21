@@ -19,10 +19,6 @@ Reference photos
 ====
 <img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20loom.jpeg">
 
-The switches for reference
-====
-<img src="https://github.com/commaai/neo/blob/master/giraffe/toyota/toyota_giraffe_switch_flowchart.png">
-
 <img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/OBD%20connector.jpeg">
 
 <img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20install1.jpeg">
@@ -30,3 +26,9 @@ The switches for reference
 <img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20install2.jpeg">
 
 <img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/reference%20photos/Giraffe%20install3.jpeg">
+
+
+The switches for reference
+====
+<img src="https://github.com/commaai/neo/blob/master/giraffe/toyota/toyota_giraffe_switch_flowchart.png">
+
