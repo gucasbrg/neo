@@ -7,6 +7,11 @@ For those wanting to have the ability to re-attach their camera covers and maint
 
 This Giraffe is meant to relocate the Panda into the headliner area next to the overhead console. This allows you to replace your camera cover and keep all wiring hidden inside the vehicle. This is designed to be built similarly to OEM wire looms with crimpped wire connections and factory style wire loom tape and connectors. 
 
+0101 Custom Giraffe wiring diagram
+====
+
+<img src="https://github.com/Hubblesphere/neo/blob/0101-wired-giraffe/giraffe/toyota/Toyota%20Giraffe%20Wiring%200101.jpg?raw=true">
+
 The switches for reference
 ====
 
